@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10997" started-at="2017-10-10T05:54:07Z" finished-at="2017-10-10T05:54:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10997" started-at="2017-10-10T05:54:07Z" finished-at="2017-10-10T05:54:18Z">
+      <class name="testcases.Logintogmail">
+        <test-method status="PASS" signature="hubLogin()[pri:0, instance:testcases.Logintogmail@39aeed2f]" name="hubLogin" duration-ms="5536" started-at="2017-10-09T22:54:07Z" finished-at="2017-10-09T22:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hubLogin -->
+        <test-method status="PASS" signature="nodeLogin()[pri:0, instance:testcases.Logintogmail@39aeed2f]" name="nodeLogin" duration-ms="5438" started-at="2017-10-09T22:54:12Z" finished-at="2017-10-09T22:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nodeLogin -->
+      </class> <!-- testcases.Logintogmail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
